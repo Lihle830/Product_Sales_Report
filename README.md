@@ -6,10 +6,11 @@ The dataset contains aggregated daily trading information for one product sold a
 Each record represents one day’s activity, including sales, cost, and quantity sold.
 ### Dataset Description
 Each record in the dataset represents one day of trading and includes the following columns:
-. Date The calendar day on which the sales occurred.
-. Sales Total Rand value of sales that occurred on that day.
-. Cost of Sales Total Rand value of costs associated with those sales.
-. Quantity Sold Total number of product units sold that day.
+- **Date** The calendar day on which the sales occurred.
+- **Sales** Total Rand value of sales that occurred on that day.
+- **Cost of Sales** Total Rand value of costs associated with those sales. 
+- **Quantity Sold** Total number of product units sold that day.
+
 ### Objectives
 Using this dataset, the goal is to develop the following metrics and insights:
 . Daily Sales Price per Unit
